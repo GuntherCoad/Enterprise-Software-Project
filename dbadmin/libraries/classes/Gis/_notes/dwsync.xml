@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GisVisualization.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisMultiPoint.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisFactory.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisPoint.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisLineString.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisGeometryCollection.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisMultiLineString.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisMultiPolygon.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisGeometry.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="GisPolygon.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+</dwsync>

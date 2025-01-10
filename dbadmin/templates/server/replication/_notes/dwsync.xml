@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="primary_configuration.twig" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757290000000" remote="133202757290000000" Dst="2" />
+<file name="change_primary.twig" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757290000000" remote="133202757290000000" Dst="2" />
+<file name="database_multibox.twig" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757290000000" remote="133202757290000000" Dst="2" />
+<file name="replica_configuration.twig" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757300000000" remote="133202757300000000" Dst="2" />
+<file name="index.twig" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757290000000" remote="133202757290000000" Dst="2" />
+<file name="primary_add_replica_user.twig" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757290000000" remote="133202757290000000" Dst="2" />
+<file name="primary_replication.twig" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757300000000" remote="133202757300000000" Dst="2" />
+<file name="status_table.twig" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757300000000" remote="133202757300000000" Dst="2" />
+</dwsync>

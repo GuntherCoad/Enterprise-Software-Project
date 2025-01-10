@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="upgrade_column_info_4_3_0+.sql" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757280000000" remote="133202757280000000" Dst="2" />
+<file name="create_tables.sql" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757280000000" remote="133202757280000000" Dst="2" />
+<file name="upgrade_tables_mysql_4_1_2+.sql" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757280000000" remote="133202757280000000" Dst="2" />
+<file name="upgrade_tables_4_7_0+.sql" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757280000000" remote="133202757280000000" Dst="2" />
+</dwsync>

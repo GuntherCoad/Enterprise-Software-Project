@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="TransformationsInterface.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757130000000" remote="133202757130000000" Dst="2" />
+<file name="ExportPlugin.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="UploadInterface.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757130000000" remote="133202757130000000" Dst="2" />
+<file name="ImportPlugin.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="TransformationsPlugin.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757130000000" remote="133202757130000000" Dst="2" />
+<file name="IOTransformationsPlugin.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="SchemaPlugin.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="TwoFactorPlugin.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757130000000" remote="133202757130000000" Dst="2" />
+<file name="AuthenticationPlugin.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+<file name="Plugin.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133202757120000000" remote="133202757120000000" Dst="2" />
+</dwsync>

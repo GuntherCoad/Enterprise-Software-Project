@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133779770821338519" remote="133779770820000000" Dst="1" />
+<file name="createSID.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133728778620846115" remote="133728778710000000" Dst="2" />
+<file name="clearSID.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133729657215031925" remote="133729657280000000" Dst="2" />
+<file name="createQuery.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133749560868121394" remote="133777183280000000" Dst="1" />
+<file name="functions.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133780170011715862" remote="133780250820000000" Dst="1" />
+<file name="create_query_request.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133749557677627833" remote="133749557710000000" Dst="2" />
+<file name="createClose.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133747750274388043" remote="133749097580000000" Dst="2" />
+<file name="openAllDocs.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133777202295412739" remote="133777202290000000" Dst="1" />
+<file name="openAllIDs.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133780177782323235" remote="133780177780000000" Dst="1" />
+<file name="create_query_request_DB.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133749556389464140" remote="133749556790000000" Dst="2" />
+<file name="fileTest.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133746478366392789" remote="133746478430000000" Dst="2" />
+<file name="requestToDB.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133778946969166845" remote="133778947010000000" Dst="1" />
+<file name="requestFromUnproccessed.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133779008748093373" remote="133779008790000000" Dst="1" />
+<file name="movingToProcess.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133777245230580905" remote="133777245240000000" Dst="1" />
+<file name="divyIntoParts.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133778862871935813" remote="133778863690000000" Dst="1" />
+<file name="requestSpecificFile.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133779182390658788" remote="133779182370000000" Dst="1" />
+<file name="dealWithLoans.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133780261496142109" remote="133780261480000000" Dst="1" />
+<file name="lookForLoans.php" server="ec2-3-145-100-37.us-east-2.compute.amazonaws.com//var/www/html/" local="133780230595893723" remote="133780230590000000" Dst="1" />
+</dwsync>
